@@ -10,7 +10,8 @@
      background-color: silver;
  }
 
- .container{
+ .container
+ {
     margin: 0px;
  }
 
@@ -19,4 +20,12 @@
  }
  .menu{
     display: flex;
+ }
+ .menu li{
+   list-style: none;
+   margin: 5px;
+ }
+ .menu li a{
+   text-decoration: none;
+   color: white;
  }
