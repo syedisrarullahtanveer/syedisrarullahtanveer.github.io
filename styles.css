@@ -1,4 +1,7 @@
  .header {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
      background-color: teal;
      color: white;
  }
@@ -13,4 +16,7 @@
 
  *{
    margin: 0px; 
+ }
+ .menu{
+    display: flex;
  }
